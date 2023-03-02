@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @AustenLeow
-- 👀 I’m interested in various fields of data science & AI, FinTech, and software development.
-- 🌱 A sophomore in Singapore Management University, studying Computer Science. I am passionate about self-improvement and life: years of various martial arts, gymming, sports, eSports, travelling, thrills, teaching others, and exploring my Ikigai. 
+- 👀 A sophomore in Singapore Management University studying Computer Science (Artificial Intelligence & Cybersecurity) with a 2nd major in Information Systems (Digitalisation & Cloud Solutions). I am currently exploring my interests in the fields of software engineering, cybersecurity, data science & artificial intelligence, and cloud architecture.
 - 📫 How to reach me / find out more about me -> https://linktr.ee/austenleow
