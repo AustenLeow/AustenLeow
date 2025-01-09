@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AustenLeow
-- 👀 A sophomore in Singapore Management University studying Computer Science (Artificial Intelligence & Cybersecurity) with a 2nd major in Information Systems (Digitalisation & Cloud Solutions). I am currently exploring my interests in the fields of software engineering, cybersecurity, data science & artificial intelligence, and cloud architecture.
+- 👀 A senior in Singapore Management University studying Computer Science (Artificial Intelligence & Cybersecurity) with a 2nd major in Information Systems (Digitalisation & Cloud Solutions). I am currently exploring my interests in the fields of software engineering, cybersecurity, data science & artificial intelligence, and cloud architecture.
 - 📫 How to reach me / find out more about me -> https://linktr.ee/austenleow
